@@ -14,12 +14,12 @@ bit = platform.architecture()[0]
 
 if bit == '64bit':
 
-    from run64 import main
+    from run64 import infinty
 
-    main()
+    infinty()
 
 elif bit == '32bit':
 
-    from run32 import main
+    from run32 import infinty
 
-    main()
+    infinty()
