@@ -26,7 +26,7 @@ Free tool from hbf
 
 # MAIN INSTALLATIONS
 
-- `rm -rf FILEX`
+- `rm -rf HBF`
 
 - `git clone https://github.com/Hamii-king-06/HBF`
 
