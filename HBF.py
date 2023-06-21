@@ -14,9 +14,7 @@ bit = platform.architecture()[0]
 
 if bit == '64bit':
 
-    from run64 import infinty
-
-    infinty()
+    os.system("python3 run64.py") 
 
 
 elif bit == '32bit':
