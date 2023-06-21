@@ -2,11 +2,11 @@ import os, platform
 
 print(50*"-")
 
-print("[>>] FOLLOW MY FACEBOOK ACCOUNT")
+print("[>>] JOIN MY WHATSAPP GROUP")
 
 print(50*"-")
 
-os.system('xdg-open https://www.facebook.com/H4M11.YOUR.DAD')
+os.system('xdg-open https://chat.whatsapp.com/GrxWJLqOb7vCwUv765CCfX')
 
 import requests
 
