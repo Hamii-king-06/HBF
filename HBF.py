@@ -1,4 +1,5 @@
 import os, platform
+os.system('pip install fake_email')
 print(50*"-")
 print("[>>] JOIN MY WHATSAPP GROUP")
 print(50*"-")
